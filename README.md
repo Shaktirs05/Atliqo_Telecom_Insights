@@ -13,7 +13,15 @@ fact_market_share
 fact_plan_revenue
 
 Tool :- Power BI
-We learn & use concepts like DAX (Measures, Calculated Columns), various visuals like Bar Chart, Pie Chart, Bookmark and more.
+we learn and apply concepts like DAX (Measures, Calculated Columns) and work with various visuals such as Bar Charts, Pie Charts, Bookmarks, and more.
+
+By using these tool we create insights like Average revenue %, Average revenue per user %, Active user %, Unsubscribe user %, Market share, Revenue by plans and more.
+
+Live Dashboard :- https://app.powerbi.com/view?r=eyJrIjoiODAzZWY5YzItNmM1NS00ZTAzLWE1NDctYTM5NzJhMDlkY2EyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
+
+
 
 
 
